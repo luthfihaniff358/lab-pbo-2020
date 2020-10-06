@@ -19,5 +19,5 @@ public class prak2Lat1 {
 }
 
 /*
- Program berikut untuk mencoba operator aritmetika
+ Program diatas untuk mencoba operator aritmetika
  */
