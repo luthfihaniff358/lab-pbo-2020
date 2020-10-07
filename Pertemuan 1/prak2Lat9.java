@@ -8,3 +8,6 @@ System.out.println("Angka ganjil");
 }
 }
 }
+/*
+ Program diatas untuk mencoba seleksi if-else
+ */

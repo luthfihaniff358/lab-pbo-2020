@@ -1,20 +1,15 @@
-public class prak2Lat15
+public class prak2Lat14
 {
 public static void main(String arg[])
 {
-int i=0;
-while (i<10)
+for (int i=0; i<10; i++)
 {
-int j=0;
-while (j<i+1)
-{
+for (int j=0; j<i+1; j++)
 System.out.print('*');
-j++;
-}
 System.out.println();
-i++;
 }
 }
 } 
 /*
- Program berikut untuk mencoba looping while
+ Program diatas untuk mencoba looping for
+ */

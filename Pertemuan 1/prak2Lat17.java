@@ -15,5 +15,5 @@ System.out.println();
 }
 }
 /*
- Program berikut untuk mencoba statemen break
+ Program diatas untuk mencoba statemen break
  */
